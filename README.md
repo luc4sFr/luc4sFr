@@ -6,8 +6,6 @@ Bem-vindo ao meu perfil no GitHub!
 - 🌎 [Perfil no GitHub](https://github.com/luc4sFr)
 - 📂 Veja meus repositórios: [github.com/luc4sFr?tab=repositories](https://github.com/luc4sFr?tab=repositories)
 
-![MySQL Logo](https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png)
-
 ## 🚀 Vamos nos conectar!
 
 Fique à vontade para explorar meus projetos e entrar em contato para colaboração ou troca de ideias!
